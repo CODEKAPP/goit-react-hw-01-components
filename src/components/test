@@ -1,0 +1,16 @@
+// import React from 'react';
+// import PropTypes from 'prop-types';
+
+// ffc
+// sfc
+// rprop
+
+
+// const test = ({ test2 }) => {
+//   return <></>;
+// };
+
+// test.prototype = {
+//   test2: PropTypes.string,
+// };
+// export default test;
